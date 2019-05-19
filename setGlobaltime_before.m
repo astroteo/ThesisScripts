@@ -1,0 +1,4 @@
+function setGlobaltime_before(TIME_BEFORE)
+global time_before
+time_before=TIME_BEFORE;
+end
